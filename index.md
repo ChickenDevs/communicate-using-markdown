@@ -12,3 +12,7 @@ $ echo "Look, a bash code example!" > example.txt
 $ cat example.txt
 Look, a bash code example!
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
