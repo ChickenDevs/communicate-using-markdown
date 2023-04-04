@@ -6,3 +6,9 @@
 ###### Add h6 header
 
 ![Image of Nyantocat](https://octodex.github.com/images/nyantocat.gif)
+
+```bash
+$ echo "Look, a bash code example!" > example.txt
+$ cat example.txt
+Look, a bash code example!
+```
